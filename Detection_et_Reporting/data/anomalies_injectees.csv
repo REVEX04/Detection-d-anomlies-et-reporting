@@ -1,0 +1,12 @@
+id,type_anomalie,variables_concernees,date_debut,date_fin,description
+A02,pic_ponctuel,temp_vapeur_C,2025-02-11 14:00,2025-02-11 17:00:00,Pic de temperature vapeur (defaut regulation desurchauffe)
+A01,derive_progressive,vibrations_mm_s,2025-03-02 04:00,2025-03-06 04:00,"Montee progressive des vibrations turbine (desequilibre/palier), jusqu'a arret force"
+A03,baisse_rendement,rendement_pct,2025-06-10 00:00,2025-06-30 20:00:00,Baisse progressive du rendement : encrassement chaudiere (corrige par nettoyage)
+A04,pic_ponctuel,pression_bar,2025-07-22 09:00,2025-07-22 11:00:00,Surpression transitoire circuit vapeur
+A05,multivariee,vibrations_mm_s|temp_vapeur_C|rendement_pct,2025-08-19 00:00,2025-08-20 12:00:00,Combinaison anormale vibrations + temperature + rendement (chaque variable seule reste sous les seuils)
+A06,chute_puissance,puissance_MW,2025-09-14 11:00,2025-09-14 16:00,"Baisse de charge brutale non planifiee (-70 MW, probleme broyeur)"
+A07,pic_ponctuel,temp_vapeur_C,2025-12-03 21:00,2025-12-04 01:00:00,Pic de temperature vapeur (defaut regulation desurchauffe)
+A08,derive_progressive,vibrations_mm_s,2026-01-20 02:00,2026-01-25 02:00,"Montee progressive des vibrations turbine (desequilibre/palier), jusqu'a arret force"
+A09,baisse_rendement,rendement_pct,2026-04-06 00:00,2026-04-22 16:00:00,Baisse progressive du rendement : encrassement chaudiere (corrige par nettoyage)
+A10,multivariee,vibrations_mm_s|temp_vapeur_C|rendement_pct,2026-05-27 00:00,2026-05-29 00:00:00,Combinaison anormale vibrations + temperature + rendement (chaque variable seule reste sous les seuils)
+A11,pic_ponctuel,pression_bar,2026-06-11 15:00,2026-06-11 18:00:00,Surpression transitoire circuit vapeur

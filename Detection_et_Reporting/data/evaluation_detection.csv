@@ -1,0 +1,12 @@
+id,type_anomalie,variables,date_debut,detectee,methode
+A02,pic_ponctuel,temp_vapeur_C,2025-02-11 14:00:00,oui,statistique
+A01,derive_progressive,vibrations_mm_s,2025-03-02 04:00:00,oui,ML+statistique
+A03,baisse_rendement,rendement_pct,2025-06-10 00:00:00,oui,ML+statistique
+A04,pic_ponctuel,pression_bar,2025-07-22 09:00:00,oui,statistique
+A05,multivariee,vibrations_mm_s|temp_vapeur_C|rendement_pct,2025-08-19 00:00:00,oui,ML
+A06,chute_puissance,puissance_MW,2025-09-14 11:00:00,oui,ML+statistique
+A07,pic_ponctuel,temp_vapeur_C,2025-12-03 21:00:00,oui,statistique
+A08,derive_progressive,vibrations_mm_s,2026-01-20 02:00:00,oui,ML+statistique
+A09,baisse_rendement,rendement_pct,2026-04-06 00:00:00,oui,ML
+A10,multivariee,vibrations_mm_s|temp_vapeur_C|rendement_pct,2026-05-27 00:00:00,oui,ML
+A11,pic_ponctuel,pression_bar,2026-06-11 15:00:00,oui,statistique

@@ -1,0 +1,21 @@
+RAPPORT DE SUIVI DE PRODUCTION
+Periode : 2026-06-24 au 2026-06-30
+
+1. RESUME DE LA PERIODE
+La production s'eleve a 56803 MWh pour une puissance moyenne de 338.1 MW en marche. La tranche a ete disponible toute la periode. Le rendement thermique moyen ressort a 37.54 %. Aucune anomalie n'a ete detectee : le fonctionnement est reste dans les plages normales.
+
+2. INDICATEURS CLES
+- Production totale : 56803 MWh
+- Puissance moyenne (en marche) : 338.1 MW
+- Disponibilite : 100.0 %
+- Rendement thermique moyen : 37.54 %
+- Consommation charbon : 21933 t
+- Episodes d'anomalie : 0
+
+3. ANOMALIES DETECTEES
+- Aucune anomalie sur la periode.
+
+4. RECOMMANDATIONS
+- Poursuivre la surveillance selon le plan en vigueur.
+
+Rapport genere automatiquement (mode template, sans LLM).

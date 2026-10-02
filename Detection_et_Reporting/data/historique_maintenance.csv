@@ -1,0 +1,28 @@
+date,type,equipement,duree_h,arret_tranche,description
+2025-01-06,preventive,chaudiere,4,non,Inspection / graissage periodique
+2025-02-03,preventive,broyeur,4,non,Inspection / graissage periodique
+2025-03-03,preventive,turbine,8,non,Inspection / graissage periodique
+2025-03-06,corrective,turbine,40,oui,Arret force suite montee vibrations turbine
+2025-03-31,preventive,turbine,6,non,Inspection / graissage periodique
+2025-04-14,planifiee,tranche,240,oui,Revision mineure programmee (10 j)
+2025-04-28,preventive,broyeur,8,non,Inspection / graissage periodique
+2025-05-26,preventive,turbine,4,non,Inspection / graissage periodique
+2025-06-23,preventive,pompe alimentaire,8,non,Inspection / graissage periodique
+2025-07-01,corrective,chaudiere,12,non,Nettoyage chaudiere suite baisse rendement
+2025-07-21,preventive,turbine,4,non,Inspection / graissage periodique
+2025-08-18,preventive,pompe alimentaire,8,non,Inspection / graissage periodique
+2025-09-15,preventive,chaudiere,6,non,Inspection / graissage periodique
+2025-10-05,planifiee,tranche,336,oui,Arret annuel planifie (14 j)
+2025-10-13,preventive,chaudiere,8,non,Inspection / graissage periodique
+2025-11-10,preventive,turbine,8,non,Inspection / graissage periodique
+2025-12-08,preventive,pompe alimentaire,4,non,Inspection / graissage periodique
+2026-01-05,preventive,broyeur,8,non,Inspection / graissage periodique
+2026-01-25,corrective,turbine,48,oui,Arret force suite montee vibrations turbine
+2026-02-02,preventive,chaudiere,8,non,Inspection / graissage periodique
+2026-03-02,preventive,chaudiere,4,non,Inspection / graissage periodique
+2026-03-09,planifiee,tranche,120,oui,Controle reglementaire chaudiere (5 j)
+2026-03-30,preventive,broyeur,4,non,Inspection / graissage periodique
+2026-04-23,corrective,chaudiere,10,non,Nettoyage chaudiere suite baisse rendement
+2026-04-27,preventive,turbine,6,non,Inspection / graissage periodique
+2026-05-25,preventive,broyeur,8,non,Inspection / graissage periodique
+2026-06-22,preventive,pompe alimentaire,4,non,Inspection / graissage periodique

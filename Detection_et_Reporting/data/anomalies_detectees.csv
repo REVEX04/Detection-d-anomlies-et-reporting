@@ -1,0 +1,25 @@
+date_debut,date_fin,duree_h,variables,methode,severite,diagnostic,score_ml_min
+2025-02-11 14:00:00,2025-02-11 14:00:00,1,temp_vapeur_C,statistique,moyenne,Ecart temperature vapeur : verifier la regulation de desurchauffe,0.005
+2025-03-04 03:00:00,2025-03-06 03:00:00,49,vibrations_mm_s,statistique+ML,haute,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.133
+2025-06-18 19:00:00,2025-06-18 23:00:00,5,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.01
+2025-06-20 01:00:00,2025-06-20 07:00:00,5,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.074
+2025-06-20 14:00:00,2025-06-20 23:00:00,7,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.076
+2025-06-21 18:00:00,2025-06-23 00:00:00,29,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.063
+2025-06-23 04:00:00,2025-06-23 04:00:00,1,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.022
+2025-06-23 11:00:00,2025-07-01 01:00:00,183,rendement_pct,statistique+ML,haute,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.164
+2025-07-15 04:00:00,2025-07-15 04:00:00,1,temp_vapeur_C,statistique,moyenne,Ecart temperature vapeur : verifier la regulation de desurchauffe,-0.072
+2025-07-22 09:00:00,2025-07-22 09:00:00,1,pression_bar,statistique,moyenne,Ecart de pression vapeur : controler regulation et soupapes,-0.009
+2025-08-19 08:00:00,2025-08-19 12:00:00,4,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.02
+2025-08-19 19:00:00,2025-08-20 05:00:00,10,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.097
+2025-09-14 11:00:00,2025-09-14 11:00:00,1,puissance_MW|conso_charbon_t_h,statistique,moyenne,"Ecart de puissance significatif : possible limitation ou defaut auxiliaire (broyeur, pompe)",-0.151
+2025-09-14 15:00:00,2025-09-14 22:00:00,8,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.136
+2025-12-03 21:00:00,2025-12-03 21:00:00,1,temp_vapeur_C,statistique,moyenne,Ecart temperature vapeur : verifier la regulation de desurchauffe,0.002
+2026-01-22 02:00:00,2026-01-25 01:00:00,72,vibrations_mm_s,statistique+ML,haute,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.147
+2026-04-16 18:00:00,2026-04-17 00:00:00,7,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.1
+2026-04-17 04:00:00,2026-04-17 04:00:00,1,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.059
+2026-04-17 14:00:00,2026-04-18 01:00:00,12,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.084
+2026-04-18 17:00:00,2026-04-19 04:00:00,12,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.113
+2026-04-19 15:00:00,2026-04-20 04:00:00,14,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.123
+2026-04-20 11:00:00,2026-04-22 19:00:00,54,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.151
+2026-05-28 13:00:00,2026-05-28 22:00:00,10,multivariable,ML,faible,Combinaison inhabituelle de parametres (anomalie multivariee) : inspection recommandee,-0.112
+2026-06-11 15:00:00,2026-06-11 15:00:00,1,pression_bar,statistique,moyenne,Ecart de pression vapeur : controler regulation et soupapes,0.015
